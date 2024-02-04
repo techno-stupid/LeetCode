@@ -4,16 +4,16 @@ Welcome to my LeetCode solutions repository! This repository contains my solutio
 ```
 Tree/
 |-- easy/
-|   |-- solution.go
-|   |-- solution.go
+|   |-- 1. TwoSum.go
+|   |-- 9. Palindrome Number.go
 |
 |-- medium/
-|   |-- solution.go
-|   |-- solution.go
+|   |-- 11. Container With Most Water.go
+|   |-- 17. Letter Combinations of a Phone Number.go
+|   |-- 53. Maximum Subarray.go
 |
 |-- hard/
-|   |-- solution.go
-|   |-- solution.go
+|   |--
 
 ```
 # How to Run
