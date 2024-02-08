@@ -3,6 +3,12 @@
 Welcome to my LeetCode solutions repository! This repository contains my solutions to various LeetCode problems, categorized by difficulty—easy, medium, and hard. If you're exploring this repository, I hope you find it helpful and informative.
 ```
 Tree/
+|-- daily question/
+|   |-- February 2024/
+|   |   |-- 279. Perfect Squares.go
+|   |   |-- 451. Sort Characters By Frequency.go
+|   |   |-- 49. Group Anagrams.go
+|
 |-- easy/
 |   |-- 1. TwoSum.go
 |   |-- 9. Palindrome Number.go
@@ -11,6 +17,7 @@ Tree/
 |   |-- 11. Container With Most Water.go
 |   |-- 17. Letter Combinations of a Phone Number.go
 |   |-- 53. Maximum Subarray.go
+|   |-- 55. Jump Game.go
 |
 |-- hard/
 |   |--
